@@ -55,7 +55,7 @@ Streaming and digital download availability across Spotify, Apple Music, and Dis
   - Live 24/7 Voice Demo Line: [`+1 (770) 847-4325`](tel:+17708474325)
   - Four Verified Stripe Hosted Checkout Tiers:
     - Founding Partner: `$199` setup + `$299/mo` ([Stripe Checkout](https://buy.stripe.com/8x29AV63P83R5Wg56adIA00))
-    - Essentials: `$1,500` setup + `$499/mo` ([Stripe Checkout](https://buy.stripe.com/00w9AVfEp83R70k0PUdIA01))
+    - Essentials: `$1,500` setup + `$499/mo` ([Stripe Checkout](https://buy.stripe.com/00w9AVfEp83R70kPUdIA01))
     - Growth: `$2,500` setup + `$899/mo` ([Stripe Checkout](https://buy.stripe.com/bJefZjdwh83R4Sc1TYdIA02))
     - Pro: `$4,500` setup + `$1,499/mo` ([Stripe Checkout](https://buy.stripe.com/28E28tak5gAnfwQeGKdIA03))
 - **CashRides Atlanta**:
@@ -91,6 +91,8 @@ python3 test_storefront.py
 19. Jessie AI Receptionist live telephony demo link (`tel:+17708474325`).
 20–22. Payhip digital audiobook product link integrity (`1z2xi`, `AnDrk`, `lBpzb`).
 23–24. Gumroad digital book product link integrity (`BlackLawvol1`, `streetlevelsurvival`).
+
+**Last verified:** 2026-09-25 — **24/24 PASS** (Grok Portfolio Finisher). Essentials Stripe path aligned to live AppDeploy HTML.
 
 ---
 
