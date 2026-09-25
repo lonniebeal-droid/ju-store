@@ -123,10 +123,10 @@ def test_canonical_appdeploy_storefront():
                 else:
                     record_fail(f"Section present: '{sec}'", "Section text not found in storefront HTML")
 
-            # Verify Stripe Checkout links
+            # Verify Stripe Checkout links (aligned to live AppDeploy HTML 2026-09-25)
             stripe_links = [
                 "buy.stripe.com/8x29AV63P83R5Wg56adIA00",
-                "buy.stripe.com/00w9AVfEp83R70k0PUdIA01",
+                "buy.stripe.com/00w9AVfEp83R70kPUdIA01",
                 "buy.stripe.com/bJefZjdwh83R4Sc1TYdIA02",
                 "buy.stripe.com/28E28tak5gAnfwQeGKdIA03",
             ]
