@@ -27,9 +27,9 @@ This repository implements a lightweight, zero-latency redirect architecture:
 ## 📦 Storefront Catalog Breakdown
 
 ### 1. 🎧 JU Audiobooks (Payhip Digital Distribution)
-- **No Map Given** — [Payhip Checkout](https://payhip.com/b/1z2xi)
+- **No Map Given** — [Payhip Checkout](https://payhip.com/b/lBpzb)
 - **Street-Level Survival Vol. 1** — [Payhip Checkout](https://payhip.com/b/AnDrk)
-- **Black Law Vol. 1** — [Payhip Checkout](https://payhip.com/b/lBpzb)
+- **Black Law Vol. 1** — [Payhip Checkout](https://payhip.com/b/1z2xi)
 
 ### 2. 🎵 JU Music Store — Albums & Singles
 Streaming and digital download availability across Spotify, Apple Music, and DistroKid:
