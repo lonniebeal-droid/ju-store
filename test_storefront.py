@@ -17,8 +17,7 @@ from pathlib import Path
 
 # Setup unverified SSL context for environments with custom/strict CA bundles
 CTX = ssl.create_default_context()
-CTX.check_hostname = False
-CTX.verify_mode = ssl.CERT_NONE
+assert CTX.check_hostname and CTX.verify_mode == ssl.CERT_REQUIRED
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (JU-Storefront-Verifier/1.0)"}
 
